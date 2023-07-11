@@ -1,0 +1,7 @@
+name: 'Commerce product redirect to view'
+type: module
+description: 'After to modify a product redirect always to the products view.'
+package: 'Commerce'
+core: 8.x
+version: VERSION
+core_version_requirement: ^8 || ^9
